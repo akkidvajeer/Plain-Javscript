@@ -1,0 +1,37 @@
+html,
+body {
+  width: 50%;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 360px;
+}
+
+#inputField {
+  width: 300px;
+  height: 40px;
+  border: 1px solid black;
+  font-size: 25px;
+  vertical-align: middle;
+  background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+}
+
+#addTask {
+  margin-top: 10px;
+  height: 40px;
+  width: 70px;
+  border: 1px solid black;
+  vertical-align: middle;
+  font-size: 15px;
+}
+.to-dos {
+  margin-top: 25px;
+}
+
+.paragraph-styling {
+  margin: 0px;
+  cursor: pointer;
+  font-size: 20px;
+}
